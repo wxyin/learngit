@@ -4,4 +4,4 @@ Git has a mutable called stage.
 Git tracks changes of files.
 Remote repository test.
 GitHub account settup.
-Change remote URL..
+Change remote URL.
